@@ -15,8 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and make it work - Soon: the RK food ordering web app
+          Learn React and make it work
         </a>
+        <p>
+          <b>Coming soon: the <span style={{color:'blue', background: 'yellow'}}>RK</span> food ordering web app</b>
+        </p>
       </header>
     </div>
   );
