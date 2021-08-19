@@ -70,7 +70,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### `codecov` code coverage
-      <a href="https://codecov.io/gh/framirez1000/admin-food-app">
-        <img src="https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W"/>
-      </a>
+
+[![codecov](https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W)](https://codecov.io/gh/framirez1000/admin-food-app)
+
+<a href="https://codecov.io/gh/framirez1000/admin-food-app">
+<img src="https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W"/>
+</a>
+    
+
+      .. image:: https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W
+      :target: https://codecov.io/gh/framirez1000/admin-food-app
     
