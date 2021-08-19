@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and make it work
+          Learn React and make it work - Soon: the RK food ordering web app
         </a>
       </header>
     </div>

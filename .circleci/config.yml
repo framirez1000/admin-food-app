@@ -3,7 +3,7 @@ orbs:
   node: circleci/node@4.0.0
 jobs:
   build:
-    working_directory: ~/gourmet-admin
+    working_directory: ~/admin-food-app
     docker:
       - image: circleci/node:latest
     steps:
