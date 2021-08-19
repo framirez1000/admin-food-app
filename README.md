@@ -71,13 +71,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `codecov` code coverage
 
-[![codecov](https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W)](https://codecov.io/gh/framirez1000/admin-food-app)
+[![codecov](https://codecov.io/gh/framirez1000/admin-food-app/branch=main/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W)](https://codecov.io/gh/framirez1000/admin-food-app)
 
 <a href="https://codecov.io/gh/framirez1000/admin-food-app">
-<img src="https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W"/>
+<img src="https://codecov.io/gh/framirez1000/admin-food-app/branch=main/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W"/>
 </a>
     
 
-      .. image:: https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W
-      :target: https://codecov.io/gh/framirez1000/admin-food-app
+.. image:: https://codecov.io/gh/framirez1000/admin-food-app/branch/circleci-project-setup/graph/badge.svg?token=NPYKKYIF5W
+:target: https://codecov.io/gh/framirez1000/admin-food-app
     
