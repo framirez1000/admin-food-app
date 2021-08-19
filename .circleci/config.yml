@@ -24,5 +24,6 @@ jobs:
           name: Run Tests
           command: yarn test
 
-      - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v1
+      - coverage:
+          name: Upload coverage to Codecov
+          uses: codecov/codecov-action@v1
