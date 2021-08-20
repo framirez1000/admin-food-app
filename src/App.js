@@ -1,13 +1,14 @@
 import logo from './logo.svg';
+import Logo from './fr-Logo-3.jpg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <img src={Logo} className="App-logo" alt="logo" />
+        <p><br></br>
+          Web admin <span style={{color:' lime'}}>Ord-App</span> home page.
         </p>
         <a
           className="App-link"
