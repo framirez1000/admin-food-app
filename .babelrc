@@ -1,0 +1,17 @@
+{
+
+    "presets": [
+        "@babel/preset-env",
+        ["@babel/preset-react"]
+    ],
+    "env":{
+        "dev":{
+            "plugins": ["instanbul"]
+        }
+    },
+    "plugins": [
+        ["@babel/plugin-transform-runtime", {
+          "regenerator": true
+        }]
+      ]
+}
